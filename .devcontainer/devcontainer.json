@@ -1,0 +1,6 @@
+{
+	"name": "juice-shop",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node",
+	"postCreateCommand": "npm install && npm start",
+	"forwardPorts": [3000]
+}
